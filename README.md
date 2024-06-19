@@ -62,6 +62,9 @@ live-face-eye-detection/
 └── requirements.txt    # Python dependencies
 ```
 
+## Output
+![alt text](https://github.com/EswarAleti/live-face-eye-detection/blob/main/output.png?raw=true)
+
 ---
 
 Enjoy detecting faces and eyes in real-time with this web application!
